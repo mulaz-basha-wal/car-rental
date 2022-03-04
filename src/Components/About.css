@@ -1,0 +1,39 @@
+.aboutCar {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+.aboutDescFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.passage {
+    padding: 10px;
+    padding-right: 30px;
+    margin: 10px;
+    text-align: left;
+}
+.heading {
+    text-align: left;
+    padding-left: 50px;
+}
+.aboutCar2 {
+    width: auto;
+    height: 50%;
+    padding: 20px;
+    padding-top: 100px;
+}
+.culture {
+    padding: 20px;
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+@media (max-width: 500px) {
+    .aboutDescFlex {
+        flex-direction: column;
+    }
+    .aboutCar2 {
+        padding: 20px;
+    }
+}

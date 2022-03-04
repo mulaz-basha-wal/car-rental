@@ -1,0 +1,17 @@
+table {
+    width: 30%;
+    margin: 10px auto;
+    background-color: rgba(128, 128, 128, 0.4);
+}
+th {
+    background-color: #1877f2;
+    padding: 10px;
+}
+td {
+    padding: 10px;
+    color: black;
+    background-color: white;
+}
+.employeeWrapper {
+    margin: 6% auto;
+}

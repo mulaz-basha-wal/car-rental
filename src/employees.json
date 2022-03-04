@@ -1,0 +1,19 @@
+[
+	{"name":"Ashish",
+	"loc":"Bangalore"
+	},
+	{"name":"Pooja",
+	"loc":"Bidar"
+	},
+	{"name":"Yogesh",
+	"loc":"Mumbai"
+	},
+	{
+	"name":"Balu",
+	"loc":"Singapore"
+	},
+	{
+		"name":"Preeti",
+		"loc":"America"
+	}
+]
